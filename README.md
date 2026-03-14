@@ -1,5 +1,7 @@
 # Nexus Prime – Operational Social Impact Framework
 
+## Overview
+
 This repository contains the Operational Social Impact Framework for Nexus Prime. The document establishes a structured and systems-oriented approach to defining, interpreting, and operationalizing social impact within the context of distributed computational infrastructure and advanced systems engineering environments.
 
 Nexus Prime operates as a technology-driven organization focused on the design, coordination, and governance of scalable infrastructure systems. Within this operational domain, social impact is not derived from symbolic initiatives or externally oriented programs, but emerges from the consistent delivery of reliable, accessible, and efficient computational environments that enable broader technological ecosystems to function effectively.
@@ -8,6 +10,7 @@ The framework contained within this repository articulates how infrastructure-le
 
 This repository serves as a public and immutable reference for the organization’s approach to social impact, ensuring transparency, structural clarity, and consistency in how such contributions are defined and communicated.
 
+---
 
 ## Purpose of the Framework
 
@@ -23,6 +26,7 @@ The framework is designed to:
 
 This document does not function as a promotional or aspirational statement. Instead, it serves as a technical and operational reference that describes how impact is generated through disciplined engineering execution and infrastructure governance.
 
+---
 
 ## Organizational Context
 
@@ -32,6 +36,7 @@ In this context, social impact is inherently indirect and system-mediated. Infra
 
 The organization’s role is therefore positioned at the infrastructural layer of technological ecosystems, where contributions are embedded within system performance, availability, and operational consistency rather than directly observable end-user outcomes.
 
+---
 
 ## Scope and Limitations
 
@@ -46,6 +51,7 @@ The absence of such elements reflects the current stage of organizational develo
 
 The document should therefore be interpreted as a framework-level articulation of how impact is enabled, rather than as a comprehensive measurement of societal outcomes.
 
+---
 
 ## Infrastructure Enablement as Impact
 
@@ -60,6 +66,7 @@ Infrastructure enablement contributes to social impact through:
 
 These contributions enable external entities to maintain functionality without requiring additional compensatory mechanisms, thereby supporting the broader efficiency of technological ecosystems.
 
+---
 
 ## Accessibility and Distributed Participation
 
@@ -74,6 +81,7 @@ Accessibility is achieved through:
 
 By reducing barriers to infrastructure access, the organization contributes to the expansion of digital participation, allowing a wider range of systems and users to engage with computational resources.
 
+---
 
 ## Reliability and System Continuity
 
@@ -88,6 +96,7 @@ Nexus Prime addresses reliability through:
 
 These measures ensure that infrastructure systems maintain consistent availability, supporting uninterrupted operation of external systems and services.
 
+---
 
 ## Interoperability and Ecosystem Integration
 
@@ -102,6 +111,7 @@ Interoperability is facilitated through:
 
 This approach supports the cohesion of digital ecosystems and enables systems to operate collectively rather than in isolation.
 
+---
 
 ## Efficiency and Operational Stability
 
@@ -116,6 +126,7 @@ Nexus Prime emphasizes:
 
 By maintaining operational stability and efficiency, the organization ensures that infrastructure systems contribute positively to the performance of dependent environments.
 
+---
 
 ## Security and Trust
 
@@ -130,6 +141,7 @@ The organization implements:
 
 These measures ensure that systems operate within a secure environment, enabling users and dependent systems to rely on infrastructure with confidence.
 
+---
 
 ## Knowledge Dissemination and Transparency
 
@@ -144,6 +156,7 @@ This includes:
 
 Transparency supports efficient system integration and reduces the complexity associated with infrastructure usage.
 
+---
 
 ## Economic Enablement and Systemic Value
 
@@ -158,6 +171,7 @@ Nexus Prime’s contributions include:
 
 These contributions facilitate value creation within technological ecosystems and support the broader digital economy.
 
+---
 
 ## Risk Management and Responsible Operation
 
@@ -172,6 +186,7 @@ This includes:
 
 These practices ensure that infrastructure systems operate within defined parameters and maintain their integrity over time.
 
+---
 
 ## Measurement and Impact Traceability
 
@@ -186,6 +201,7 @@ Measurement focuses on:
 
 These indicators provide insight into the conditions that enable impact, ensuring that evaluation remains grounded in observable system behavior.
 
+---
 
 ## Continuous Development and Future Alignment
 
@@ -198,6 +214,7 @@ The framework is designed to evolve alongside the organization’s growth and in
 
 These enhancements will be implemented as operational maturity and data availability increase.
 
+---
 
 ## Repository Usage
 
@@ -205,6 +222,7 @@ This repository serves as a stable and publicly accessible reference for Nexus P
 
 Users should interpret the framework as a structured representation of how social impact is operationalized within infrastructure systems, rather than as a comprehensive assessment of societal outcomes.
 
+---
 
 ## Final Note
 
